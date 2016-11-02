@@ -57,7 +57,9 @@
     "ember-truth-helpers": "^1.2.0",
     "eslint-plugin-ember-suave": "^1.0.0",
     "loader.js": "^4.0.10",
-    "memory-scroll": "0.2.0"
+    "memory-scroll": "0.2.0",
+    "ember-moment": "^6.1.0",
+    "ember-cli-moment-shim": "^2.1.0"
   },
   "keywords": [
     "ember-addon",
@@ -66,9 +68,7 @@
   "dependencies": {
     "ember-cli-babel": "^5.1.7",
     "ember-cli-htmlbars": "^1.0.10",
-    "ember-concurrency": "^0.7.15",
-    "ember-moment": "^6.1.0",
-    "ember-cli-moment-shim": "^2.1.0"
+    "ember-concurrency": "^0.7.15"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
